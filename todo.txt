@@ -1,0 +1,8 @@
+Todo 
+1. add default code.        DONE
+2. add page heading and paragraph and buttons.   DONE
+2.1 link css and js.                 DONE
+3. add hacker-style.                 DONE
+4. target elecment
+5. add eventlistener for change mode
+6. add eventlistener for reset mode
